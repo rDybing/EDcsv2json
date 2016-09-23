@@ -1,0 +1,132 @@
+Aberrant Shield Pattern Analysis	Data	Rare	Ship Scanning (Combat ships), Mission Reward
+Abnormal Compact Emission Data	Data	Very rare	Deep space data beacon, Signal Source, Mission Reward
+Adaptive Encryptors Capture	Data	Very rare	Mission Reward, Signal Source
+Anomalous Bulk Scan Data	Data	Very common	Ship Scanning (Transport ships), Mission Reward
+Anomalous FSD Telemetry	Data	Common	High Wake Scanning, Mission Reward
+Antimony	Raw material	Very rare	Surface Prospecting
+Arsenic	Raw material	Standard	Surface Prospecting, Mining, Mission Reward
+Articulation Motors	Commodity	Standard	Mission reward
+Atypical Disrupted Wake Echoes	Data	Very common	High Wake Scanning, Mission Reward
+Atypical Encryption Archives	Data	Rare	Surface POI
+Basic Conductors	Manufactured	Very common	Ship Salvage (Transport ships)
+Biotech Conductors	Manufactured	Very rare	Mission Reward
+Bromellite	Commodity	Standard	Mining
+Cadmium	Raw material	Rare	Surface Prospecting
+Carbon	Raw material	Very common	Surface Prospecting, Mining, Mining (Ice rings)
+Chemical Distillery	Manufactured	Standard	Ship Salvage (Transport ships), Signal Source (High security)
+Chemical Manipulators	Manufactured	Rare	Ship Salvage (Transport ships), Surface POI
+Chemical Processors	Manufactured	Common	Ship Salvage (Transport ships), Signal Source (High security), Mission Reward
+Chemical Storage Units	Manufactured	Very common	Ship Salvage (Transport ships)
+Chromium	Raw material	Common	Surface Prospecting, Mining (Ice rings)
+Classified Scan Databanks	Data	Standard	Ship Scanning (Transport ships), Surface POI
+Classified Scan Fragment	Data	Very rare	Surface Data Point, Mission Reward
+CMM Composite	Commodity	Standard	Markets
+Compact Composites	Manufactured	Very common	Signal Source, Surface POI
+Compound Shielding	Manufactured	Rare	Ship Salvage (Combat ships), Signal Source (High security), Mission Reward
+Conductive Ceramics	Manufactured	Standard	Ship Salvage (Transport ships), Signal Source (Anarchy)
+Conductive Components	Manufactured	Common	Ship Salvage (Transport ships), Signal Source (Anarchy)
+Conductive Polymers	Manufactured	Rare	Ship Salvage (Transport ships), Surface POI, Mission Reward
+Configurable Components	Manufactured	Rare	Ship Salvage (Transport ships), Signal Source (Low security)
+Core Dynamics Composites	Manufactured	Very rare	Ship Salvage (Combat ships), Signal Source (High grade emissions)
+Cracked Industrial Firmware	Data	Standard	Surface Data Point, Mission Reward
+Crystal Shards	Manufactured	Very common	Ship Salvage (Combat ships), Surface POI
+Datamined Wake Exceptions	Data	Very rare	High Wake Scanning, Mission Reward
+Decoded Emission Data	Data	Rare	Ship Scanning (Combat ships), Mission Reward
+Distorted Shield Cycle Recordings	Data	Very common	Ship Scanning (Transport ships), Mission Reward
+Divergent Scan Data	Data	Rare	Surface Data Point, Mission Reward
+Eccentric Hyperspace Trajectories	Data	Rare	High Wake Scanning
+Electrochemical Arrays	Manufactured	Standard	Ship Salvage (Military & Authority ships), Signal Source (Anarchy)
+Emergency Power Cells	Commodity	Standard	Markets near Akhenaten (High Tech/Refinery)
+Energy Grid Assembly	Commodity	Standard	Markets near Stafkarl (Industrial/Refinery)
+Exceptional Scrambled Emission Data	Data	Very common	Ship Scanning, Signal Source, Mission Reward
+Exhaust Manifold	Commodity	Standard	Markets near Run (Industrial/Refinery)
+Exquisite Focus Crystals	Manufactured	Very rare	Mission Reward
+Filament Composites	Manufactured	Common	Ship Salvage (Military & Authority ships), Signal Source
+Flawed Focus Crystals	Manufactured	Common	Signal Source
+Focus Crystals	Manufactured	Standard	Ship Salvage (Combat ships), Signal Source (High security)
+Galvanising Alloys	Manufactured	Common	Ship Salvage (Combat ships), Signal Source, Mission Reward
+Germanium	Raw material	Common	Surface Prospecting, Mission Reward
+Grid Resistors	Manufactured	Very common	Ship Salvage (Military & Authority ships), Signal Source, Mission Reward
+Hardware Diagnostic Sensor	Commodity	Standard	Markets near Lei Jing (Industrial/Refinery)
+Heat Conduction Wiring	Manufactured	Very common	Ship Salvage (Transport ships), Signal Source, Mission Reward
+Heat Dispersion Plate	Manufactured	Common	Ship Salvage (Transport ships), Signal Source, Mission Reward
+Heat Exchangers	Manufactured	Standard	Ship Salvage (Transport ships), Signal Source (Anarchy)
+Heat Resistant Ceramics	Manufactured	Common	Ship Salvage (Transport ships)
+Heat Vanes	Manufactured	Rare	Ship Salvage (Transport ships), Signal Source, Mission Reward
+Heatsink Interlink	Commodity	Standard	Markets near Myrbat (Industrial/Refinery)
+High Density Composites	Manufactured	Standard	Ship Salvage (Military & Authority ships), Signal Source (Low security)
+HN Shock Mount	Commodity	Standard	Markets
+Hybrid Capacitors	Manufactured	Common	Ship Salvage (Military & Authority ships), Signal Source, Mission Reward
+Imperial Shielding	Manufactured	Very rare	Signal Source (High grade emissions), Mission Reward
+Improvised Components	Manufactured	Very rare	Signal Source (High grade emissions), Mission Reward
+Inconsistent Shield Soak Analysis	Data	Common	Ship Scanning (Transport ships), Mission Reward
+Insulating Membrane	Commodity	Standard	Markets
+Ion Distributor	Commodity	Standard	Markets near 70 Tauri (Industrial/Extraction)
+Iron	Raw material	Very common	Surface Prospecting, Mining, Mining (Ice rings)
+Irregular Emission Data	Data	Common	Mission Reward, Signal Source
+Magnetic Emitter Coil	Commodity	Standard	Markets near Leesti (Industrial/Refinery)
+Manganese	Raw material	Common	Surface Prospecting, Mission Reward
+Mechanical Components	Manufactured	Standard	Ship Salvage (Transport ships), Signal Source (Low security)
+Mechanical Equipment	Manufactured	Common	Ship Salvage (Transport ships), Signal Source
+Mechanical Scrap	Manufactured	Very common	Ship Salvage (Transport ships), Signal Source, Mission Reward
+Mercury	Raw material	Rare	Surface Prospecting
+Micro Controllers	Commodity	Standard	Markets
+Micro-Weave Cooling Hoses	Commodity	Standard	Mission reward
+Military Grade Alloys	Manufactured	Very rare	Signal Source (High grade emissions), Mission Reward
+Military Supercapacitors	Manufactured	Very rare	Signal Source, Mission Reward
+Modified Consumer Firmware	Data	Common	Mission Reward, Signal Source, Surface Data Point
+Modified Embedded Firmware	Data	Very rare	Surface Data Point, Mission Reward
+Modular Terminals	Commodity	Standard	Mission reward
+Molybdenum	Raw material	Rare	Surface Prospecting, Mission Reward
+Nanobreakers	Commodity	Standard	Mission reward
+Neofabric Insulation	Commodity	Standard	Mission reward
+Nickel	Raw material	Very common	Surface Prospecting, Mining, Mining (Ice rings)
+Niobium	Raw material	Standard	Surface Prospecting, Mission Reward
+Open Symmetric Keys	Data	Standard	Surface Data Point, Signal Source, Mission Reward
+Osmium	Commodity	Standard	Mining
+Peculiar Shield Frequency Data	Data	Very rare	Ship Scanning, Mission Reward
+Pharmaceutical Isolators	Manufactured	Very rare	Mission Reward, Signal Source (High grade emissions)
+Phase Alloys	Manufactured	Standard	Ship Salvage (Combat ships), Signal Source (Low security)
+Phosphorus	Raw material	Very common	Surface Prospecting, Mining, Mining (Ice rings)
+Platinum	Commodity	Standard	Mining
+Polonium	Raw material	Very rare	Surface Prospecting, Mission Reward
+Polymer Capacitors	Manufactured	Rare	Ship Salvage (Military & Authority ships), Signal Source, Mission Reward
+Power Converter	Commodity	Standard	Markets near Lakota (Industrial/Extraction)
+Power Transfer Bus	Commodity	Standard	Markets near Cilbien Zu (Industrial/Extraction)
+Praseodymium	Commodity	Standard	Mining
+Precipitated Alloys	Manufactured	Standard	Ship Salvage (Military & Authority ships), Mission Reward
+Proprietary Composites	Manufactured	Rare	Signal Source, Mission Reward
+Proto Heat Radiators	Manufactured	Very rare	Signal Source (High grade emissions), Mission Reward
+Proto Light Alloys	Manufactured	Rare	Signal Source, Mission Reward, Mission Reward
+Proto Radiolic Alloys	Manufactured	Very rare	Signal Source (High grade emissions)
+Radiation Baffle	Commodity	Standard	Markets near Heget (Industrial/Extraction)
+Refined Focus Crystals	Manufactured	Rare	Mission Reward, Signal Source (High security)
+Reinforced Mounting Plate	Commodity	Standard	Markets near Eurybia (Extraction/Refinery)
+Ruthenium	Raw material	Very rare	Surface Prospecting
+Salvaged Alloys	Manufactured	Very common	Ship Salvage (Combat ships), Signal Source
+Samarium	Commodity	Standard	Mining
+Security Firmware Patch	Data	Rare	Surface Data Point, Mission Reward
+Selenium	Raw material	Standard	Surface Prospecting, Mission Reward
+Shield Emitters	Manufactured	Common	Ship Salvage (Combat ships), Signal Source
+Shielding Sensors	Manufactured	Standard	Ship Salvage (Combat ships), Signal Source (High security), Mission Reward
+Specialised Legacy Firmware	Data	Very common	Mission Reward, Surface Data Point, Signal Source
+Strange Wake Solutions	Data	Standard	High Wake Scanning, Mission Reward
+Sulphur	Raw material	Very common	Surface Prospecting, Mining, Mining (Ice rings)
+Tagged Encryption Codes	Data	Common	Surface Data Point, Signal Source, Mission Reward
+Technetium	Raw material	Very rare	Surface Prospecting
+Telemetry Suite	Commodity	Standard	Mission reward
+Tellurium	Raw material	Very rare	Surface Prospecting
+Tempered Alloys	Manufactured	Very common	Ship Salvage (Combat ships)
+Thermic Alloys	Manufactured	Rare	Ship Salvage (Combat ships), Mission Reward
+Tin	Raw material	Rare	Surface Prospecting
+Tungsten	Raw material	Standard	Surface Prospecting
+Unexpected Emission Data	Data	Standard	Ship Scanning (Combat ships), Signal Source
+Unidentified Scan Archives	Data	Common	Ship Scanning (Transport ships)
+Unknown Fragment	Manufactured	Very rare	Destroyed Unknown Artefact
+Untypical Shield Scans	Data	Standard	Ship Scanning (Combat ships)
+Unusual Encrypted Files	Data	Very common	Surface Data Point, Signal Source, Mission Reward
+Vanadium	Raw material	Common	Surface Prospecting, Mining (Ice rings)
+Worn Shield Emitters	Manufactured	Very common	Ship Salvage (Combat ships), Signal Source
+Yttrium	Raw material	Rare	Surface Prospecting
+Zinc	Raw material	Common	Surface Prospecting
+Zirconium	Raw material	Standard	Surface Prospecting, Mining
